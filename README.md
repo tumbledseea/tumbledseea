@@ -1,10 +1,8 @@
-<img align="right" width="96" src="assets/dase-logo.png" alt="ECNU DaSE">
-
 # Hi, I'm Zhang Jing Bin 👋
 
 🎓 **M.S. student, School of Data Science & Engineering, East China Normal University**
 🔬 Research interests: **NLP · LLM hallucination mitigation · Agent engineering**
-
+---
 <a href="https://github.com/CursorTouch/Windows-MCP">
   <img src="https://img.shields.io/github/stars/CursorTouch/Windows-MCP?style=flat&logo=github&label=Windows-MCP&color=yellow" alt="Windows-MCP stars">
 </a>
@@ -15,11 +13,9 @@
   <img src="https://img.shields.io/badge/fixed%20issue-%23583-blue?logo=github" alt="Issue #583">
 </a>
 
----
-
 ## 🌟 Open Source · Windows-MCP (11.3k★)
 
-An open-source MCP server that lets LLM agents directly automate the Windows desktop. I triaged 24 open issues, root-caused a defect in the core PowerShell tool, and got the fix **merged the same day the issue was filed** ([PR #585](https://github.com/CursorTouch/Windows-MCP/pull/585), closes [#583](https://github.com/CursorTouch/Windows-MCP/issues/583)):
+An open-source MCP server that lets LLM agents directly automate the Windows desktop. As a contributor ,I fix **merged the same day the issue was filed** ([PR #585](https://github.com/CursorTouch/Windows-MCP/pull/585), closes [#583](https://github.com/CursorTouch/Windows-MCP/issues/583)):
 
 - 📦 **Large output no longer vanishes** — commands printing hundreds of KB lost their entire result to MCP client token limits; the response now keeps the head and the tail with an actionable truncation marker
 - ⏱ **Timeouts are distinguishable** — a timeout no longer shares its exit code with real failures, and the output produced before it ended is surfaced so agents can pick the right retry strategy
@@ -33,14 +29,10 @@ An open-source MCP server that lets LLM agents directly automate the Windows des
 ## 🛠 Tech Stack
 
 **LLM training**: SFT / LoRA fine-tuning · RLHF (GRPO / PPO) · multi-GPU training & inference · on-policy distillation (OPD)
-**Application engineering**: agent development · MCP / skill design · Windows UI Automation
+
+**Application engineering**: agent development · MCP / skill design · Context Engineering
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-black?logo=anthropic&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
-
-## 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tumbledseea&show_icons=true&hide_border=true&count_private=true)
