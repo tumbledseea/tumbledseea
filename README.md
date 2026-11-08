@@ -1,4 +1,3 @@
-<img align="right" width="96" src="assets/dase-logo.png" alt="ECNU DaSE">
 
 # Hi, I'm Zhang Jing Bin 👋
 
