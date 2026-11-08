@@ -3,6 +3,7 @@
 🎓 **M.S. student, School of Data Science & Engineering, East China Normal University**
 🔬 Research interests: **NLP · LLM hallucination mitigation · Agent engineering**
 ---
+## 🌟 Open Source · Windows-MCP (11.3k★)
 <a href="https://github.com/CursorTouch/Windows-MCP">
   <img src="https://img.shields.io/github/stars/CursorTouch/Windows-MCP?style=flat&logo=github&label=Windows-MCP&color=yellow" alt="Windows-MCP stars">
 </a>
@@ -12,9 +13,6 @@
 <a href="https://github.com/CursorTouch/Windows-MCP/issues/583">
   <img src="https://img.shields.io/badge/fixed%20issue-%23583-blue?logo=github" alt="Issue #583">
 </a>
-
-## 🌟 Open Source · Windows-MCP (11.3k★)
-
 An open-source MCP server that lets LLM agents directly automate the Windows desktop. As a contributor ,I fix **merged the same day the issue was filed** ([PR #585](https://github.com/CursorTouch/Windows-MCP/pull/585), closes [#583](https://github.com/CursorTouch/Windows-MCP/issues/583)):
 
 - 📦 **Large output no longer vanishes** — commands printing hundreds of KB lost their entire result to MCP client token limits; the response now keeps the head and the tail with an actionable truncation marker
