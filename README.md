@@ -1,9 +1,13 @@
+<img align="right" width="96" src="assets/dase-logo.png" alt="ECNU DaSE">
+
 # Hi, I'm Zhang Jing Bin 👋
 
-🎓 M.S. student,School of Data Science & Engineering, East China Normal University
+🎓 **M.S. student**, School of Data Science & Engineering, East China Normal University
 
-🔬 Research interests: **NLP · LLM hallucination mitigation · Agent engineering**
+🔬 **Research interests**: NLP · LLM hallucination mitigation · Agent engineering
+
 ---
+
 ## 🌟 Open Source · Windows-MCP (11.3k★)
 
 <a href="https://github.com/CursorTouch/Windows-MCP">
@@ -16,8 +20,7 @@
   <img src="https://img.shields.io/badge/fixed%20issue-%23583-blue?logo=github" alt="Issue #583">
 </a>
 
-
-An open-source MCP server that lets LLM agents directly automate the Windows desktop. As a contributor ,I fix **merged the same day the issue was filed** ([PR #585](https://github.com/CursorTouch/Windows-MCP/pull/585), closes [#583](https://github.com/CursorTouch/Windows-MCP/issues/583)):
+An open-source MCP server that lets LLM agents directly automate the Windows desktop. As a contributor, I got my fix **merged the same day the issue was filed** ([PR #585](https://github.com/CursorTouch/Windows-MCP/pull/585), closes [#583](https://github.com/CursorTouch/Windows-MCP/issues/583)):
 
 - 📦 **Large output no longer vanishes** — commands printing hundreds of KB lost their entire result to MCP client token limits; the response now keeps the head and the tail with an actionable truncation marker
 - ⏱ **Timeouts are distinguishable** — a timeout no longer shares its exit code with real failures, and the output produced before it ended is surfaced so agents can pick the right retry strategy
@@ -25,7 +28,7 @@ An open-source MCP server that lets LLM agents directly automate the Windows des
 
 ## 🏆 Competitions
 
-- 🥉 **Ali Tianchi × CCKS 2026 — Multimodal Knowledge Graph Construction for Cultural Tourism** — Third Prize · [competition page](https://tianchi.aliyun.com/competition/entrance/532477)
+- 🥉 **Ali Tianchi × CCKS 2026 — Multimodal Knowledge Graph Construction for Cultural Tourism** — National Third Prize · [competition page](https://tianchi.aliyun.com/competition/entrance/532477)
 - **Kaggle × NVIDIA Nemotron Model Reasoning Challenge** — **Top 20%** (831 / 4185, Mar – Jun 2026) · [competition](https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge)
 
 ## 🛠 Tech Stack
