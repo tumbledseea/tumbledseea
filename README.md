@@ -1,6 +1,6 @@
 # Hi, I'm Zhang Jing Bin 👋
 
-🎓 **M.S. student, School of Data Science & Engineering, East China Normal University**
+🎓 **M.S. student,School of Data Science & Engineering, East China Normal University**
 🔬 Research interests: **NLP · LLM hallucination mitigation · Agent engineering**
 ---
 ## 🌟 Open Source · Windows-MCP (11.3k★)
@@ -24,7 +24,7 @@ An open-source MCP server that lets LLM agents directly automate the Windows des
 
 ## 🏆 Competitions
 
-- 🥉 **Ali Tianchi × CCKS 2026 — Multimodal Knowledge Graph Construction for Cultural Tourism** — National Third Prize · [competition page](https://tianchi.aliyun.com/competition/entrance/532477)
+- 🥉 **Ali Tianchi × CCKS 2026 — Multimodal Knowledge Graph Construction for Cultural Tourism** — Third Prize · [competition page](https://tianchi.aliyun.com/competition/entrance/532477)
 - **Kaggle × NVIDIA Nemotron Model Reasoning Challenge** — **Top 20%** (831 / 4185, Mar – Jun 2026) · [competition](https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge)
 
 ## 🛠 Tech Stack
