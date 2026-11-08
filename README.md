@@ -1,6 +1,6 @@
 # Hi, I'm Zhang Jing Bin 👋
 
-🎓 **M.S. student,School of Data Science & Engineering, East China Normal University**
+🎓 M.S. student,School of Data Science & Engineering, East China Normal University
 
 🔬 Research interests: **NLP · LLM hallucination mitigation · Agent engineering**
 ---
