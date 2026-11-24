@@ -7,7 +7,7 @@
 
 ---
 
-## 🌟 Open Source · Windows-MCP (11.3k★)
+## 🌟 Open Source · Windows-MCP (12.3k★)
 
 <a href="https://github.com/CursorTouch/Windows-MCP">
   <img src="https://img.shields.io/github/stars/CursorTouch/Windows-MCP?style=flat&logo=github&label=Windows-MCP&color=yellow" alt="Windows-MCP stars">
